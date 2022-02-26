@@ -8,3 +8,7 @@ A repository to add all the Machine Learning Algorithms or Data Science Concepts
 - Data Visualization Using Numpy & Pandas
 - Classification
 - Clustering
+
+## Content:
+
+1. Dataset Preparation:
