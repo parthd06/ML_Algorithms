@@ -4,8 +4,8 @@ A repository to add all the Machine Learning Algorithms or Data Science Concepts
 
 ## Table of Contents:
 
-- Dataset Preparation
-- Data Visualization Using Numpy & Pandas
+- Dataset Preparation Using Numpy & Pandas
+- Data Visualization Using Matplotlib & Seaborn
 - Classification
 - Clustering
 
