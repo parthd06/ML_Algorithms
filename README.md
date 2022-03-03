@@ -9,11 +9,3 @@ A repository to add all the Machine Learning Algorithms or Data Science Concepts
 - Classification
 - Clustering
 
-## Content:
-
-1. Dataset Preparation: 
-  References:
-- https://machinelearningmastery.com/handle-missing-data-python/
-- https://www.w3schools.com/python/pandas
-- https://www.geeksforgeeks.org/difference-between-pandas-vs-numpy/
-
