@@ -6,6 +6,7 @@ A repository to add all the Machine Learning Algorithms or Data Science Concepts
 
 - Dataset Preparation Using Numpy & Pandas
 - Data Visualization Using Matplotlib & Seaborn
-- Classification
-- Clustering
+- Supervised Learning
+  - Regression
+  - Classification
 
