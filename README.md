@@ -9,4 +9,5 @@ A repository to add all the Machine Learning Algorithms or Data Science Concepts
 - Supervised Learning
   - Regression
   - Classification
-
+- Unsupervised Learning
+  - Clustering
